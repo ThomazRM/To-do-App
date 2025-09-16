@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Aprender Redux!!!",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "Estudar Next.js",
+      "completed": true
+    },
+    {
+      "id": "f329",
+      "text": "Estudar português",
+      "completed": false
+    },
+    {
+      "id": "1518",
+      "text": "abulabila bula",
+      "completed": true
+    },
+    {
+      "id": "0eb5",
+      "text": "aaa",
+      "completed": false
+    }
+  ]
+}
