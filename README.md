@@ -7,7 +7,7 @@ O projeto foi criado para estudo e portfólio, explorando boas práticas de fron
 ---
 
 ## 🚀 Deploy
-👉 [Acesse o app aqui](https://to-do-app.vercel.app)
+👉 [Acesse o app aqui](https://to-do-app-zeta-ebon.vercel.app/)
 
 ---
 
